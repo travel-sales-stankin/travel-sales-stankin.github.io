@@ -205,7 +205,7 @@ nav a#openup {
   }
 
   #showcase {
-    height: 50vh;
+    height: 80vh;
   }
 
   #showcase .container {
@@ -284,7 +284,8 @@ nav a#openup {
   }
 
   footer .footer-cols {
-    display: none;
+    grid-template-columns: 1fr;
+  } 
   }
 }
 
